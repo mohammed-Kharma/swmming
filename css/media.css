@@ -1,0 +1,219 @@
+@media(max-width:576px){
+    header{
+        min-height: 120vh;
+    }
+    .colum-promming{
+        flex-basis: 100%;
+    }
+    .icon1{
+        display: none;
+    }
+    .col-foot{
+        flex-basis: 100%;
+        border-bottom: 2px solid #fff ;
+        margin: 10px 0px;
+    }
+    .col-profile{
+        flex-basis: 100%;
+        
+    }
+    .colum-contact{
+        flex-basis: 100%;
+    }
+    .colum-contact img{
+        width: 100%;
+    }
+    .colum-contact1{
+        flex-basis: 100%;
+    }
+    .mune{
+        display: block;
+        font-size: 28px;
+        width: 50px;
+        height: 50px;
+        background-color: orange;
+        display: flex;
+        justify-content: center;align-items: center;
+        color: #fff;
+        cursor: pointer;
+    }
+    .list-header ul{
+        background-color: #2c2f5a;
+        padding: 5px;
+        display: none;
+    }
+    .list-header ul li{
+        display: block;
+        font-family: 'Tajawal', sans-serif;
+        padding:  10px 0px;
+        text-align: center;
+    }
+    .flex-header{
+        display: block;
+    }
+    .img-header img{
+        width: 60% !important;
+    }
+    .header-information{
+       
+        background-color: #2c2f5a;
+        width: 100%;
+        padding: 5px;
+        display: none;
+        text-align: center;
+    }
+    .header-information button{
+        display: block;
+        margin: 10px auto;
+    }
+    .content-header{
+        width: 70%;
+        text-align: right;
+        padding-top: 100px;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .colum-promming{
+        flex-basis: 100%;
+    }
+    .icon1{
+        display: none;
+    }
+    .col-foot{
+        flex-basis: 100%;
+        border-bottom: 2px solid #fff ;
+        margin: 10px 0px;
+    }
+    .col-foot{
+        flex-basis: 48%;
+    }
+    .col-profile{
+        flex-basis: 50%;
+        
+    }
+    .colum-contact{
+        flex-basis: 100%;
+    }
+    .colum-contact img{
+        width: 100%;
+    }
+    .colum-contact1{
+        flex-basis: 100%;
+    }
+    .mune{
+        display: block;
+        font-size: 28px;
+        width: 50px;
+        height: 50px;
+        background-color: orange;
+        display: flex;
+        justify-content: center;align-items: center;
+        color: #fff;
+        cursor: pointer;
+    }
+    .list-header ul{
+        background-color: #2c2f5a;
+        padding: 5px;
+        display: none;
+    }
+    .list-header ul li{
+        display: block;
+        font-family: 'Tajawal', sans-serif;
+        padding:  10px 0px;
+        text-align: center;
+    }
+    .flex-header{
+        display: block;
+    }
+    .img-header img{
+        width: 60% !important;
+    }
+    .header-information{
+        float: left;
+        background-color: #2c2f5a;
+        width: 100%;
+        padding: 5px;
+        display: none;
+    }
+    .header-information button{
+        display: block;
+        margin: 10px auto;
+    }
+    .content-header{
+        width: 50%;
+        text-align: right;
+        padding-top: 100px;
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .colum-promming{
+        flex-basis: 48%;
+    }
+    .col-foot{
+        flex-basis: 48%;
+        border-bottom: 2px solid #fff ;
+        margin: 10px 0px;
+    }
+    .col-profile{
+        flex-basis: 33.33%;
+        
+    }
+    .colum-contact{
+        flex-basis: 50%;
+    }
+    .colum-contact img{
+        width: 100%;
+    }
+    .colum-contact1{
+        flex-basis: 45%;
+    }
+    .mune{
+        display: block;
+        font-size: 28px;
+        width: 50px;
+        height: 50px;
+        background-color: orange;
+        display: flex;
+        justify-content: center;align-items: center;
+        color: #fff;
+        cursor: pointer;
+    }
+    .list-header ul{
+        background-color: #2c2f5a;
+        padding: 5px;
+        display: none;
+    }
+    .list-header ul li{
+        display: block;
+        font-family: 'Tajawal', sans-serif;
+        padding:  10px 0px;
+        text-align: center;
+    }
+    .flex-header{
+        display: block;
+    }
+    .img-header img{
+        width: 60% !important;
+    }
+    .header-information{
+        float: left;
+        background-color: #2c2f5a;
+        width: 100%;
+        padding: 5px;
+        display: none;
+    }
+    .header-information button{
+        display: block;
+        margin: 10px auto;
+    }
+    .content-header{
+        width: 50%;
+        text-align: right;
+        padding-top: 100px;
+    }
+}
+@media(min-width:992px) and (max-width:1199.98px){
+    .colum-promming{
+        flex-basis:49%;
+    }
+}
